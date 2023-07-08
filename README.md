@@ -1,12 +1,15 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hi there! <a href="https://aristi.dev"> Víctor José Castillo Castro </a> 👋</h1>
+</div>
+<img src="[https://i.imgur.com/weNbhGZ.png](https://www.canva.com/design/DAFnrxw9O1c/AsroO4yS-W0a2VLsNMhymA/edit?utm_content=DAFnrxw9O1c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)">
 
-<!--
-**VictorCast2/VictorCast2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**VictorCast2/VictorCast2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
