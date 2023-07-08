@@ -14,7 +14,9 @@
 🔐 With my Introduction to Cybersecurity certificate, I'm equipped to protect systems and data, ensuring their integrity and availability. 🛡️
 
 💼 The Google certificate in Protecting Your Business in Telecommuting reflects my awareness of security challenges in remote work and my ability to implement suitable measures. 🏠✉️
-
+<p align="center" border-radius="50%">
+  <img align='right' src="https://user-images.githubusercontent.com/83784155/219974218-41b45e45-603e-4584-8490-aab84f600dbc.gif" width="30%">
+</p>
 💬 Effective communication is key, enabling me to collaborate seamlessly with colleagues and clients. I'm a creative problem-solver, always finding innovative solutions. 🗣️💡
 
 🤝 I thrive in teamwork and value collaboration. With dedication and a positive attitude, I achieve shared goals. 🚀
