@@ -24,8 +24,8 @@
 Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power of teamwork, and together, we can achieve greatness! 🤝✨ Remember, every problem has a solution - let's find it! 💡🔧
 -->
 ### 🚀 👨‍💻 applications 👨‍💻 🚀
-<img src="https://github.com/VictorCast2/icons/vscode.png" title="Visual_Studio_Code" alt="Visual_Studio_Code" width="40" height="40"/>&nbsp;
-<img src="https://github.com/VictorCast2/icons/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
+<img src="VictorCast2/icons/vscode.png" title="Visual_Studio_Code" alt="Visual_Studio_Code" width="40" height="40"/>&nbsp;
+<img src="VictorCast2/icons/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
