@@ -69,7 +69,7 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 <td width="50%">
 <h3 align="center">Curso Android Básico</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -87,7 +87,7 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
                <br>
 <h3 align="center">Arquitectura MVVM</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
@@ -102,6 +102,7 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 </table>                                                                                 
 </div>
 <br>
+<hr>
 
 ## 🤝 &nbsp;Support me 🤝 &nbsp;
 
@@ -111,11 +112,13 @@ If you enjoy my work and would like to support me, you can sponsor me on GitHub,
 Your support will enable me to focus more on open-source projects and contribute to the vibrant ecosystem. 🚀💻 
 Your contributions will help me continue learning, growing, and making a positive impact. 📚🌱 
 Together, we can create something amazing in the world of open-source! 💪.
+<div align="center">
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/Paypal-1E90FF?style=for-the-badge&logo=Paypal&logoColor=""">
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Paypal-blue?style=for-the-badge&color=fbfc40">
+<img src="https://img.shields.io/badge/-Nequi-blue?style=for-the-badge&logo=nequi&logoColor=white&color=1E90FF">
 </a>
 </p>
+</div>
