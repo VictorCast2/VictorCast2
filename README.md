@@ -24,8 +24,19 @@
 Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power of teamwork, and together, we can achieve greatness! 🤝✨ Remember, every problem has a solution - let's find it! 💡🔧
 -->
 ### 🚀 👨‍💻 applications 👨‍💻 🚀
-<img src="VictorCast2/icons/vscode.png" title="Visual_Studio_Code" alt="Visual_Studio_Code" width="40" height="40"/>&nbsp;
-<img src="VictorCast2/icons/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
+<a href="https://code.visualstudio.com/">
+    <img src="icons/vscode.png" title="Visual_Studio_Code" alt="Visual_Studio_Code" width="40" height="40"/>
+</a>
+<img src="icons/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
+<img src="icons/linux_original_logo_icon_146433.png" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+<img src="icons/python_original_wordmark_logo_icon_146382.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="icons/logotipo-de-mac-os.png" title="Mac/Os" alt="Mac/Os" width="40" height="40"/>&nbsp;
+<img src="icons/javascript_icon_130900.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="icons/java_original_wordmark_logo_icon_146459.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="icons/html_original_wordmark_logo_icon_146478.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="icons/html_original_wordmark_logo_icon_146478.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="icons/html_original_wordmark_logo_icon_146478.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="icons/html_original_wordmark_logo_icon_146478.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
