@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hi there! <a href="https://aristi.dev"> Víctor José Castillo Castro </a> 👋</h1>
 </div>
-<img src="[https://i.imgur.com/weNbhGZ.png](https://www.canva.com/design/DAFnrxw9O1c/AsroO4yS-W0a2VLsNMhymA/edit?utm_content=DAFnrxw9O1c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)">
+
+<img src="https://www.canva.com/design/DAFnrxw9O1c/view">
 
 <!--**VictorCast2/VictorCast2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
