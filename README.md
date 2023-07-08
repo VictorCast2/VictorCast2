@@ -1,23 +1,29 @@
 <div align="center">
-<h1 align="center">Hi there! <a href="https://aristi.dev"> Víctor José Castillo Castro </a> 👋</h1>
+<h1 align="center">Hi there! <a href="https://www.linkedin.com/in/vcastilloc/"> My name is: Víctor José Castillo Castro </a> 👋</h1>
 </div>
-
-<img src="https://www.canva.com/design/DAFnrxw9O1c/view">
+<section align='left'>
+  
+<img src="White Minimalist Profile LinkedIn Banner.jpg">
 
 <!--**VictorCast2/VictorCast2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+👨‍💻 I'm a highly competent systems technician with a passion for technology. My skills in handling various tools allow me to adapt quickly to new technologies and environments. 🛠️💪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+📜 Ethical principles and confidentiality are at the core of my work. I hold a certificate in Professional Ethics, ensuring the highest standards of conduct. 🔒
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔐 With my Introduction to Cybersecurity certificate, I'm equipped to protect systems and data, ensuring their integrity and availability. 🛡️
+
+💼 The Google certificate in Protecting Your Business in Telecommuting reflects my awareness of security challenges in remote work and my ability to implement suitable measures. 🏠✉️
+
+💬 Effective communication is key, enabling me to collaborate seamlessly with colleagues and clients. I'm a creative problem-solver, always finding innovative solutions. 🗣️💡
+
+🤝 I thrive in teamwork and value collaboration. With dedication and a positive attitude, I achieve shared goals. 🚀
+
+✨ In summary, my certifications and technical expertise make me a valuable and reliable professional. I'm committed to ethical practices, cybersecurity, and effective communication, driving success in the field of technology. 🌟
+
+Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power of teamwork, and together, we can achieve greatness! 🤝✨ Remember, every problem has a solution - let's find it! 💡🔧
 -->
+### 🚀 👨‍💻 applications 👨‍💻 🚀
 
 ### ⚙️ &nbsp;GitHub Analytics
 
