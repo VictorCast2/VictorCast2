@@ -3,7 +3,7 @@
 </div>
 <section align='left'>
   
-<img src="">
+<img src="White Minimalist Profile LinkedIn Banner.jpg">
 
 <!--**VictorCast2/VictorCast2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
