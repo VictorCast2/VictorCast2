@@ -6,8 +6,12 @@
 <h1 align="center"></h1>
 <section align='left'>
   <img src="White Minimalist Profile LinkedIn Banner.jpg" title="Profile LinkedIn Banner" alt="Profile LinkedIn Banner">&nbsp;
+  
 <!--**VictorCast2/VictorCast2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
+<details>
+  <summary>📝&nbsp;✨&nbsp; <strong>About me!</strong> 🔍&nbsp; 📚&nbsp; </summary>
+  
 👨‍💻 I'm a highly competent systems technician with a passion for technology. My skills in handling various tools allow me to adapt quickly to new technologies and environments. 🛠️💪
 
 📜 Ethical principles and confidentiality are at the core of my work. I hold a certificate in Professional Ethics, ensuring the highest standards of conduct. 🔒
@@ -18,16 +22,20 @@
 
 💬 Effective communication is key, enabling me to collaborate seamlessly with colleagues and clients. I'm a creative problem-solver, always finding innovative solutions. 🗣️💡
 
-<p align="center" border-radius="50%">
-  <img align='right' src="Gif/My.gif" width="30%">
-</p>
+👾 I am very curious and that is why you start studying programming. 🛠️
+
+🗒 I am currently very obsessed with Full Stack. 🛠️
 
 🤝 I thrive in teamwork and value collaboration. With dedication and a positive attitude, I achieve shared goals. 🚀
+</details>
+<img align='right' src="Gif/My.gif" width="30%" align="center" border-radius="50%">
 
 ✨ In summary, my certifications and technical expertise make me a valuable and reliable professional. I'm committed to ethical practices, cybersecurity, and effective communication, driving success in the field of technology. 🌟
 
 Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power of teamwork, and together, we can achieve greatness! 🤝✨ Remember, every problem has a solution - let's find it! 💡🔧
-<hr>
+<br>                                                                                                                                                                                                                                   </br>
+<br>                                                                                                                                                                                                                                   </br>
+<hr> 
 </hr>
 
 ### 🚀 👨‍💻 applications 👨‍💻 🚀
@@ -166,6 +174,7 @@ If you enjoy my work and would like to support me, you can sponsor me on GitHub,
 Your support will enable me to focus more on open-source projects and contribute to the vibrant ecosystem. 🚀💻 
 Your contributions will help me continue learning, growing, and making a positive impact. 📚🌱 
 Together, we can create something amazing in the world of open-source! 💪.
+
 <div align="center">
 <p>
 <a href="https://paypal.me/VictorCast2" target="_blank">
