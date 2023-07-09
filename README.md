@@ -1,6 +1,9 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <div align="center">
 <h1 align="center"> 👨🏻‍💻  Hi there! <a href="https://www.linkedin.com/in/vcastilloc/"> My name is: Víctor José Castillo Castro </a> 👋</h1>
 </div>
+<h3 align="center"> A passionate Full Stack Developer from Cartagena Colombia </h3>
+<h1 align="center"></h1>
 <section align='left'>
   <img src="White Minimalist Profile LinkedIn Banner.jpg" title="Profile LinkedIn Banner" alt="Profile LinkedIn Banner">&nbsp;
 <!--**VictorCast2/VictorCast2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -73,7 +76,10 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
   <img  title="Canva" alt="Canva" width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>&nbsp; 
 </a>
 <a href="https://code.visualstudio.com/">
-  <img src="icons/4202103logomicrosoftmsofficesocialsocialmedia-115585_115716.png" title="Google Icloud" alt="Google Icloud" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+</a>
+<a href="https://code.visualstudio.com/">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
 </a>
 <hr>
 </hr>
@@ -87,13 +93,29 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 <p align="center">
 <a href="https://github.com/VictorCast2">
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorCast2&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorCast2&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCast2&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorCast2&&theme=tokyonight" alt="rishavchanda" />
 </div>
 </a>
 </p>
 <hr>
 </hr>
+
+## 📲&nbsp;💻&nbsp;🔗&nbsp; Connect with me 🔗&nbsp;🌐&nbsp;🤝&nbsp;
+<p align="left">
+<a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://instagram.com/rishav_chanda" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" />
+</a>
+<a href="(https://www.youtube.com/@VCastilloC)" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" />
+</a>
+<a href="https://web.whatsapp.com/" target="_blank">
+  <img align="center" src="icons/whatsapp.png" alt="rishav chanda" height="25" width="30" />
+</a>
+<p align="left">
 
 ## 🔍&nbsp; Proyectos y Portafolios ✨&nbsp;📂&nbsp;
 <table>
@@ -104,10 +126,10 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 <a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-9dfc40?style=for-the-badge&logo=github&logoColor=black">
+  <img src="https://img.shields.io/badge/Código en GitHub-9dfc40?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=9dfc40">
+  <img src="https://img.shields.io/badge/-Youtube-9dfc40?style=for-the-badge&logo=youtube&logoColor=FF0000">
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
@@ -123,10 +145,10 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 <br>
 <p>
 <a href="https://github.com/" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+  <img src="https://img.shields.io/badge/Código en GitHub-9dfc40?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+  <img src="https://img.shields.io/badge/-Youtube-9dfc40?style=for-the-badge&logo=youtube&logoColor=FF0000">
 </a>
 </p>
 </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
@@ -146,11 +168,11 @@ Your contributions will help me continue learning, growing, and making a positiv
 Together, we can create something amazing in the world of open-source! 💪.
 <div align="center">
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/Paypal-1E90FF?style=for-the-badge&logo=Paypal&logoColor=""">
+<a href="https://paypal.me/VictorCast2" target="_blank">
+  <img src="https://img.shields.io/badge/Paypal-1E90FF?style=for-the-badge&logo=Paypal&logoColor=""">
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Nequi-blue?style=for-the-badge&logo=nequi&logoColor=white&color=1E90FF">
+  <img src="https://img.shields.io/badge/Nequi-1E90FF?style=for-the-badge&logo="icons/egi-mp-nequi.png"&logoColor=""&color=1E90FF">
 </a>
 </p>
 </div>
