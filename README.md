@@ -47,46 +47,46 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 <a href="https://www.kali.org/">
   <img src="icons/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
 </a>
-<a href="(https://www.linux.org/pages/download/)">
+<a href="https://www.linux.org/pages/download/">
   <img src="icons/linux_original_logo_icon_146433.png" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </a>
-<a href="(https://www.python.org/)">
+<a href="https://www.python.org/">
   <img src="icons/python_original_wordmark_logo_icon_146382.png" title="Python" alt="Python" width="40" height="40"/>
 </a>
-<a href="(https://support.apple.com/macos)">
+<a href="https://support.apple.com/macos">
   <img src="icons/logotipo-de-mac-os.png" title="Mac/Os" alt="Mac/Os" width="40" height="40"/>&nbsp;
 </a>
-<a href="(https://aprendejavascript.org/)">
+<a href="https://aprendejavascript.org/">
   <img src="icons/javascript_icon_130900.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </a>
-<a href="(https://www.java.com/es/)/">
+<a href="https://www.java.com/es/">
   <img src="icons/java_original_wordmark_logo_icon_146459.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </a>
-<a href="(https://lenguajehtml.com/html/)">
+<a href="https://lenguajehtml.com/html/">
   <img src="icons/html_original_wordmark_logo_icon_146478.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 </a>
-<a href="(https://lenguajecss.com/css/introduccion/que-es-css/)">
+<a href="https://lenguajecss.com/css/introduccion/que-es-css/">
   <img src="icons/css_original_wordmark_logo_icon_146576.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 </a>
-<a href="(https://github.com/)">
+<a href="https://github.com/">
   <img src="icons/github_original_wordmark_logo_icon_146506.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </a>
-<a href="(https://git-scm.com/)">
+<a href="https://git-scm.com/">
   <img src="icons/git_original_wordmark_logo_icon_146510.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </a>
-<a href="(https://www.microsoft.com/es-es/software-download/windows10)">
+<a href="https://www.microsoft.com/es-es/software-download/windows10">
   <img src="icons/Windows_Phone_icon-icons.com_66782.png" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
 </a>
-<a href="(https://www.office.com/?auth=2)/">
+<a href="https://www.office.com/?auth=2/">
   <img src="icons/4202103logomicrosoftmsofficesocialsocialmedia-115585_115716.png" title="Office" alt="Office" width="40" height="40"/>&nbsp;
 </a>
 <a href="https://www.canva.com.co/" target="_blank" rel="noreferrer">
   <img  title="Canva" alt="Canva" width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>&nbsp; 
 </a>
-<a href="(https://developer.android.com/studio)">
+<a href="https://developer.android.com/studio">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 </a>
-<a href="(https://www.arduino.cc/)">
+<a href="https://www.arduino.cc/">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
 </a>
 <hr>
@@ -112,15 +112,19 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 
 ## 📲&nbsp;💻&nbsp;🔗&nbsp; Connect with me 🔗&nbsp;🌐&nbsp;🤝&nbsp;
 <p align="left">
-<a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://instagram.com/rishav_chanda" target="blank">
+<a href="https://twitter.com/VctorJosCast02" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/vcastilloc" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" />
+</a>
+<a href="https://instagram.com/victor02_cast2" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" />
 </a>
-<a href="(https://www.youtube.com/@VCastilloC)" target="blank">
+<a href="https://www.youtube.com/@VCastilloC" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" />
 </a>
-<a href="https://web.whatsapp.com/" target="_blank">
+<a href="https://api.whatsapp.com/send/?phone=3195598806&text&type=phone_number&app_absent=0" target="_blank">
   <img align="center" src="icons/whatsapp.png" alt="rishav chanda" height="25" width="30" />
 </a>
 <p align="left">
@@ -136,7 +140,7 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 <a href="https://github.com/" target="_blank">
   <img src="https://img.shields.io/badge/Código en GitHub-9dfc40?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/" target="_blank">
+<a href="https://www.youtube.com/@VCastilloC" target="_blank">
   <img src="https://img.shields.io/badge/-Youtube-9dfc40?style=for-the-badge&logo=youtube&logoColor=FF0000">
 </a>
 </p>
@@ -155,7 +159,7 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 <a href="https://github.com/" target="_blank">
   <img src="https://img.shields.io/badge/Código en GitHub-9dfc40?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/" target="_blank">
+<a href="https://www.youtube.com/@VCastilloC" target="_blank">
   <img src="https://img.shields.io/badge/-Youtube-9dfc40?style=for-the-badge&logo=youtube&logoColor=FF0000">
 </a>
 </p>
@@ -170,17 +174,31 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 
 <!--**VictorCast2/VictorCast2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-If you enjoy my work and would like to support me, you can sponsor me on GitHub, YouTube, TikTok, and LinkedIn. 🙌🌟
+If you enjoy my work and would like to support me, you can sponsor me on GitHub, YouTube, TikTok, Instagram, Twitter, and LinkedIn. 🙌🌟
 Your support will enable me to focus more on open-source projects and contribute to the vibrant ecosystem. 🚀💻 
 Your contributions will help me continue learning, growing, and making a positive impact. 📚🌱 
 Together, we can create something amazing in the world of open-source! 💪.
 
+## You can make a difference. ✨&nbsp; Your support can fuel my passion for coding and enable me to keep creating innovative solutions. Every line of code is a step towards a better future, and with your donation, we can build that future together. 🌍&nbsp;💪&nbsp;
+
+My commitment to excellence and creativity in software development is unwavering. Every day, I dive into the world of code, seeking new ways to solve problems and make the digital world more efficient and accessible. 💻🚀 But to continue on this path, I need your help. 🙏
+
+Your generosity can make a difference in my career as a developer. With every donation to my PayPal or Nequi account, you'll be investing in the future of technology and my personal growth. Every contribution, no matter the size, will become fuel to keep innovating and creating solutions that transform our reality. 🔥💡
+
+Programming is my passion, but it's also my means to make the world a better place. With your support, I'll be able to access resources, tools, and courses that will allow me to hone my skills and stay at the forefront of the industry. 🌟📚
+
+Join me on this journey and be part of the change. Your donation not only supports my professional growth but also contributes to projects and developments that can impact the lives of many. Together, we can drive technological advancements and open new opportunities for everyone. 🤝🌈
+
+Make a difference today. Donate to my PayPal or Nequi account and help me continue creating code that changes the world. Your support is truly invaluable and appreciated! 🙌❤️
+
+Thank you in advance for your generosity and for believing in my passion for programming. Together, we can achieve great things. 🚀🎉
+<p>
 <div align="center">
 <p>
 <a href="https://paypal.me/VictorCast2" target="_blank">
   <img src="https://img.shields.io/badge/Paypal-1E90FF?style=for-the-badge&logo=Paypal&logoColor=""">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<a href="()" target="_blank">
   <img src="https://img.shields.io/badge/Nequi-1E90FF?style=for-the-badge&logo="icons/egi-mp-nequi.png"&logoColor=""&color=1E90FF">
 </a>
 </p>
