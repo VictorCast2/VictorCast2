@@ -198,7 +198,7 @@ Thank you in advance for your generosity and for believing in my passion for pro
 <a href="https://paypal.me/VictorCast2" target="_blank">
   <img src="https://img.shields.io/badge/Paypal-1E90FF?style=for-the-badge&logo=Paypal&logoColor=""">
 </a>
-<a href="()" target="_blank">
+<a href="https://www.canva.com/design/DAFoRz89Nds/bMG72518LIr0rEBdef5zWw/edit?utm_content=DAFoRz89Nds&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
   <img src="https://img.shields.io/badge/Nequi-1E90FF?style=for-the-badge&logo="icons/egi-mp-nequi.png"&logoColor=""&color=1E90FF">
 </a>
 </p>
