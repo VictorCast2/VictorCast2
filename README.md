@@ -179,10 +179,12 @@ Your support will enable me to focus more on open-source projects and contribute
 Your contributions will help me continue learning, growing, and making a positive impact. 📚🌱 
 Together, we can create something amazing in the world of open-source! 💪.
 
-## You can make a difference. ✨&nbsp; Your support can fuel my passion for coding and enable me to keep creating innovative solutions. Every line of code is a step towards a better future, and with your donation, we can build that future together. 🌍&nbsp;💪&nbsp;
-
+<details>
+  <summary> You can make a difference. ✨&nbsp; </summary>
+Your support can fuel my passion for coding and enable me to keep creating innovative solutions. Every line of code is a step towards a better future, and with your donation, we can build that future together. 🌍💪
+<p></p>
 My commitment to excellence and creativity in software development is unwavering. Every day, I dive into the world of code, seeking new ways to solve problems and make the digital world more efficient and accessible. 💻🚀 But to continue on this path, I need your help. 🙏
-
+</details>
 Your generosity can make a difference in my career as a developer. With every donation to my PayPal or Nequi account, you'll be investing in the future of technology and my personal growth. Every contribution, no matter the size, will become fuel to keep innovating and creating solutions that transform our reality. 🔥💡
 
 Programming is my passion, but it's also my means to make the world a better place. With your support, I'll be able to access resources, tools, and courses that will allow me to hone my skills and stay at the forefront of the industry. 🌟📚
