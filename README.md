@@ -56,6 +56,15 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 <a href="https://support.apple.com/macos">
   <img src="icons/logotipo-de-mac-os.png" title="Mac/Os" alt="Mac/Os" width="40" height="40"/>&nbsp;
 </a>
+<a href="https://support.apple.com/macos">
+  <img src="icons/c.png" title="C" alt="C" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://support.apple.com/macos">
+  <img src="icons/cpor.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://support.apple.com/macos">
+  <img src="icons/cmasmas.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+</a>
 <a href="https://aprendejavascript.org/">
   <img src="icons/javascript_icon_130900.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </a>
