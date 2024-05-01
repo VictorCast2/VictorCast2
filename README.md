@@ -5,7 +5,7 @@
 <h3 align="center"> A passionate Full Stack Developer from Cartagena Colombia </h3>
 <h1 align="center"></h1>
 <section align='left'>
-  <img src="White Minimalist Profile LinkedIn Banner.jpg" title="Profile LinkedIn Banner" alt="Profile LinkedIn Banner">&nbsp;
+  <img src="Profile LinkedIn Banner.jpg" title="Profile LinkedIn Banner" alt="Profile LinkedIn Banner">&nbsp;
   
 <!--**VictorCast2/VictorCast2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
