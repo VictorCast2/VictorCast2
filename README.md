@@ -2,7 +2,7 @@
 <div align="center">
 <h1 align="center"> 👨🏻‍💻  Hi there! <a href="https://www.linkedin.com/in/vcastilloc/"> My name is: Víctor José Castillo Castro </a> 👋</h1>
 </div>
-<h3 align="center"> A passionate Full Stack Developer from Cartagena Colombia </h3>
+<h3 align="center"> A passionate Full Stack Developer from Cartagena (<em> Colombia </em>) </h3>
 <h1 align="center"></h1>
 <section align='left'>
   <img src="Profile LinkedIn Banner.jpg" title="Profile LinkedIn Banner" alt="Profile LinkedIn Banner">&nbsp;
