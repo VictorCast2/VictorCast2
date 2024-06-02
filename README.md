@@ -206,7 +206,7 @@ Your generosity can make a difference in my career as a developer. With every do
 
 Programming is my passion, but it's also my means to make the world a better place. With your support, I'll be able to access resources, tools, and courses that will allow me to hone my skills and stay at the forefront of the industry. 🌟📚
 
-Join me on this journey and be part of the change. Your donation not only supports my professional growth but also contributes to projects and developments that can impact the lives of many. Together, we can drive technological advancements and open new opportunities for everyone. 🤝🌈
+Join me on this journey and be part of the change. Your donation not only supports my professional growth but also contributes to projects and developments that can impact the lives of many. Together, we can drive technological advancements and open new opportunities for everyone. 🤝
 
 Make a difference today. Donate to my PayPal or Nequi account and help me continue creating code that changes the world. Your support is truly invaluable and appreciated! 🙌❤️
 
