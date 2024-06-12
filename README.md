@@ -38,76 +38,44 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 <hr> 
 </hr>
 
-### 🚀 👨‍💻 applications 👨‍💻 🚀
-<section align='left'>
-  
-<a href="https://code.visualstudio.com/">
-  <img src="icons/vscode.png" title="Visual_Studio_Code" alt="Visual_Studio_Code" width="40" height="40"/>
-</a>
+# 🚀 👨‍💻 Applications 👨‍💻 🚀
 
-<a href="https://www.kali.org/">
-  <img src="icons/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
-</a>
+## 🌱 I’m Currently Learning...
 
-<a href="https://www.linux.org/pages/download/">
-  <img src="icons/linux_original_logo_icon_146433.png" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-</a>
+| Programming | Backend Development and Database | Software and Others |
+| :-: | :-: | :-: |
+| <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/></a> 
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70" height="70"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70"/></a> | 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" width="60" height="60"/></a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/></a> | 
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60"/></a> |
 
-<a href="https://www.python.org/">
-  <img src="icons/python_original_wordmark_logo_icon_146382.png" title="Python" alt="Python" width="40" height="40"/>
-</a>
+## 🛠️ Software and Others
 
-<a href="https://support.apple.com/macos">
-  <img src="icons/logotipo-de-mac-os.png" title="Mac/Os" alt="Mac/Os" width="40" height="40"/>&nbsp;
-</a>
-
-<a href="https://aprendejavascript.org/">
-  <img src="icons/javascript_icon_130900.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-</a>
-
-<a href="https://www.java.com/es/">
-  <img src="icons/java_original_wordmark_logo_icon_146459.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-</a>
-
-<a href="https://lenguajehtml.com/html/">
-  <img src="icons/html_original_wordmark_logo_icon_146478.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-</a>
-
-<a href="https://lenguajecss.com/css/introduccion/que-es-css/">
-  <img src="icons/css_original_wordmark_logo_icon_146576.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-</a>
-
-<a href="https://github.com/">
-  <img src="icons/github_original_wordmark_logo_icon_146506.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-</a>
-
-<a href="https://git-scm.com/">
-  <img src="icons/git_original_wordmark_logo_icon_146510.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</a>
-
-<a href="https://www.microsoft.com/es-es/software-download/windows10">
-  <img src="icons/Windows_Phone_icon-icons.com_66782.png" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
-</a>
-
-<a href="https://www.office.com/?auth=2/">
-  <img src="icons/4202103logomicrosoftmsofficesocialsocialmedia-115585_115716.png" title="Office" alt="Office" width="40" height="40"/>&nbsp;
-</a>
-
-<a href="https://www.canva.com.co/" target="_blank" rel="noreferrer">
-  <img  title="Canva" alt="Canva" width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>&nbsp; 
-</a>
-
-<a href="https://developer.android.com/studio">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-</a>
-
-<a href="https://www.arduino.cc/">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-</a>
-
+<div align='left'>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="icons/vscode.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
+  </a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+    <img src="icons/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer">
+    <img src="icons/linux_original_logo_icon_146433.png" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.microsoft.com/es-es/software-download/windows10" target="_blank" rel="noreferrer">
+    <img src="icons/Windows_Phone_icon-icons.com_66782.png" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.office.com/" target="_blank" rel="noreferrer">
+    <img src="icons/4202103logomicrosoftmsofficesocialsocialmedia-115585_115716.png" title="Office" alt="Office" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" title="Arduino" alt="Arduino" width="40" height="40"/> 
+  </a>
+</div>
 <hr>
-
-</hr>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
