@@ -42,38 +42,9 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 
 ## 🌱 I’m Currently Learning...
 
-| Programming | Backend Development and Database | Software and Others |
+| 💻 Programming | 🔧 Backend Development and Database | 🛠️ Software and Others |
 | :-: | :-: | :-: |
-| <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/></a> 
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70" height="70"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70"/></a> | 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" width="60" height="60"/></a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/></a> | 
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60"/></a> |
-
-## 🛠️ Software and Others
-
-<div align='left'>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="icons/vscode.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
-  </a>
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="icons/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer">
-    <img src="icons/linux_original_logo_icon_146433.png" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://www.microsoft.com/es-es/software-download/windows10" target="_blank" rel="noreferrer">
-    <img src="icons/Windows_Phone_icon-icons.com_66782.png" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://www.office.com/" target="_blank" rel="noreferrer">
-    <img src="icons/4202103logomicrosoftmsofficesocialsocialmedia-115585_115716.png" title="Office" alt="Office" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" title="Arduino" alt="Arduino" width="40" height="40"/> 
-  </a>
+|<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70" height="70"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="icons/vscode.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60"/></a>||<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="icons/vscode.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/></a>|
 </div>
 <hr>
 
