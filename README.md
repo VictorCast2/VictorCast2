@@ -44,7 +44,8 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 
 | 💻 Programming | 🔧 Backend Development and Database | 🛠️ Software and Others |
 | :-: | :-: | :-: |
-|<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70" height="70"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="icons/vscode.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60"/></a>||<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="icons/vscode.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/></a>|
+| <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/></a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/></a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70" height="70"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70"/></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="icons/vscode.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60"/></a> <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60"/></a> | <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"/></a> <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60"/></a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60" height="60"/></a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/></a> | <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="icons/vscode.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" height="60"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/></a> |
+
 </div>
 <hr>
 
@@ -58,6 +59,9 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 <a href="https://github.com/VictorCast2">
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorCast2&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="" />
+
+<img align="center" src="Gif/Analytics_GitHub.gif" width="30%" align="center" border-radius="50%">
+  
   <img align='right' src="Gif/Analytics_GitHub.gif" width="30%" align="center" border-radius="50%">
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCast2&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorCast2&&theme=tokyonight" alt="rishavchanda" />
@@ -127,23 +131,71 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 <br>
 <hr>
 
-## 🤝 &nbsp;Support me 🤝 &nbsp;
+## ⚡ Fun Facts
+<p align="center">
+  <img src="">
+</p>
 
-<!--**VictorCast2/VictorCast2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**Did you know?** Football (soccer) is the most popular sport in the world, with an estimated 4 billion fans globally.
+
+<p align="center">
+  <img src="">
+</p>
+
+**Fun Fact:** Volleyball was invented in 1895 by William G. Morgan as a combination of basketball, baseball, tennis, and handball.
+
+<p align="center">
+  <img src="">
+</p>
+
+**Did you know?** Baseball is often called "America's pastime" and has been played since the mid-19th century.
+
+<p align="center">
+  <img src="">
+</p>
+
+**Fun Fact:** Reading for just six minutes can reduce stress levels by 68%, according to researchers at the University of Sussex.
+
+<p align="center">
+  <img src="">
+</p>
+
+**Did you know?** Programming is often compared to wizardry, as programmers use their skills to create magical software solutions.
+
+<p align="center">
+  <img src="" alt="Junk Food">
+</p>
+
+**Fun Fact:** Junk food like burgers and fries can trigger the brain's reward system by releasing dopamine, making it addictive.
+
+<p align="center">
+  <img src="" alt="Video Games">
+</p>
+
+**Did you know?** Playing video games can improve cognitive functions such as memory, attention, and spatial reasoning.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/108991648/181400734-0742b1ac-7885-4561-b69f-6314ffd55f70.png" alt="Gaming">
+</p>
+
+**Fun Fact:** There are over 2.2 billion gamers worldwide, spanning various platforms and genres.
+
+## 🤝 &nbsp; Support me 🤝 &nbsp;
 
 If you enjoy my work and would like to support me, you can sponsor me on GitHub, YouTube, TikTok, Instagram, Twitter, and LinkedIn. 🙌🌟
+
 Your support will enable me to focus more on open-source projects and contribute to the vibrant ecosystem. 🚀💻 
 Your contributions will help me continue learning, growing, and making a positive impact. 📚🌱 
 Together, we can create something amazing in the world of open-source! 💪.
 
 <details>
-  <summary> You can make a difference. ✨&nbsp; </summary>
+  <summary> 💬 You can make a difference. ✨&nbsp; </summary>
 Your support can fuel my passion for coding and enable me to keep creating innovative solutions. Every line of code is a step towards a better future, and with your donation, we can build that future together. 🌍💪
 <p></p>
 My commitment to excellence and creativity in software development is unwavering. Every day, I dive into the world of code, seeking new ways to solve problems and make the digital world more efficient and accessible. 💻🚀 But to continue on this path, I need your help. 🙏
 </details>
 Your generosity can make a difference in my career as a developer. With every donation to my PayPal or Nequi account, you'll be investing in the future of technology and my personal growth. Every contribution, no matter the size, will become fuel to keep innovating and creating solutions that transform our reality. 🔥💡
-
+<br>
 Programming is my passion, but it's also my means to make the world a better place. With your support, I'll be able to access resources, tools, and courses that will allow me to hone my skills and stay at the forefront of the industry. 🌟📚
 
 Join me on this journey and be part of the change. Your donation not only supports my professional growth but also contributes to projects and developments that can impact the lives of many. Together, we can drive technological advancements and open new opportunities for everyone. 🤝
