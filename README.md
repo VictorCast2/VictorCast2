@@ -119,6 +119,7 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 <a href="https://github.com/VictorCast2">
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorCast2&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="" />
+  <img align='right' src="Gif/Analytics_GitHub.gif" width="30%" align="center" border-radius="50%">
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCast2&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorCast2&&theme=tokyonight" alt="rishavchanda" />
 </div>
