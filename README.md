@@ -28,7 +28,7 @@
 
 🤝 I thrive in teamwork and value collaboration. With dedication and a positive attitude, I achieve shared goals. 🚀
 </details>
-<img align='right' src="Gif/My.gif" width="30%" align="center" border-radius="50%">
+<img align='right' src="Icons/My.gif" width="30%" align="center" border-radius="50%">
 
 ✨ In summary, my certifications and technical expertise make me a valuable and reliable professional. I'm committed to ethical practices, cybersecurity, and effective communication, driving success in the field of technology. 🌟
 
@@ -58,12 +58,18 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 <p align="center">
 <a href="https://github.com/VictorCast2">
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorCast2&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="" />
+
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorCast2&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="VictorCast2" />
+
   <br>
-  <img align="center" src="Gif/Analytics_GitHub.gif" width="30%" align="center">
-   <br>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCast2&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorCast2&&theme=tokyonight" alt="rishavchanda" />
+
+  <img align="left" src="Icons/Analytics_GitHub.gif" width="30%" />
+
+  <img align="right" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCast2&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorCast2&&theme=tokyonight" alt="VictorCast2" />
+
 </div>
 </a>
 </p>
@@ -85,7 +91,7 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
 </a>
 <a href="https://api.whatsapp.com/send/?phone=3195598806&text&type=phone_number&app_absent=0" target="_blank">
-  <img align="center" src="icons/whatsapp.png" alt="WhatsApp" height="25" width="30" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
 </a>
 <p align="left">
 
