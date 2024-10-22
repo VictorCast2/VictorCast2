@@ -5,7 +5,7 @@
 <h3 align="center"> A passionate Software Development "<em>Backend</em>" from Cartagena (<em> Colombia </em>) </h3>
 <h1 align="center"></h1>
 <section align='left'>
-  <img src="Profile LinkedIn Banner.jpg" title="Profile LinkedIn Banner" alt="Profile LinkedIn Banner">&nbsp;
+<img src="Profile LinkedIn Banner.png" title="Profile LinkedIn Banner" alt="Profile LinkedIn Banner">&nbsp;
   
 <!--**VictorCast2/VictorCast2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
