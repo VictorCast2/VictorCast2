@@ -1,4 +1,5 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+
 <div align="center">
 <h1 align="center"> 👨🏻‍💻  Hi there! <a href="https://www.linkedin.com/in/vcastilloc/"> My name is: Víctor José Castillo Castro </a> 👋</h1>
 </div>
@@ -27,14 +28,16 @@
 🗒 I am currently very obsessed with Full Stack. 🛠️
 
 🤝 I thrive in teamwork and value collaboration. With dedication and a positive attitude, I achieve shared goals. 🚀
+
 </details>
 <img align='right' src="Icons/My.gif" width="30%" align="center" border-radius="50%">
 
 ✨ In summary, my certifications and technical expertise make me a valuable and reliable professional. I'm committed to ethical practices, cybersecurity, and effective communication, driving success in the field of technology. 🌟
 
 Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power of teamwork, and together, we can achieve greatness! 🤝✨ Remember, every problem has a solution - let's find it! 💡🔧
-<br>                                                                                                                                                                                                                                   </br>
-<br>                                                                                                                                                                                                                                   </br>
+<br> </br>
+<br> </br>
+
 <hr> 
 </hr>
 
@@ -42,9 +45,9 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 
 ## 🌱 I’m Currently Learning...
 
-| 💻 Programming | 🔧 Backend Development and Database | 🛠️ Software and Others |
-| :-: | :-: | :-: |
-| <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/></a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/></a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70" height="70"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70"/></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60"/></a> <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60"/></a> | <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"/></a> <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60"/></a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60" height="60"/></a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/></a> |<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" height="60"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/></a><a href="https://www.notion.so/es-la" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="60" height="60"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>|
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     💻 Programming                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        🔧 Backend Development and Database                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                           🛠️ Software and Others                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/></a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/></a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70" height="70"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70"/></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/></a> | <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"/></a> <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60"/></a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60" height="60"/></a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" height="60"/></a> | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60"/></a> <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60"/></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/></a><a href="https://www.notion.so/es-la" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="60" height="60"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/> |
 
 </div>
 <hr>
@@ -52,9 +55,10 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 ### ⚙️ &nbsp;GitHub Analytics
 
 <!--Graph-->
+
 ![ALex's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorCast2&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
-<!--Skill And More Information--> 
+<!--Skill And More Information-->
 <p align="center">
 <a href="https://github.com/VictorCast2">
 <div align="center">  
@@ -67,6 +71,7 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 </hr>
 
 ## 📲&nbsp;💻&nbsp;🔗&nbsp; Connect with me 🔗&nbsp;🌐&nbsp;🤝&nbsp;
+
 <p align="left">
 <a href="https://twitter.com/VctorJosCast02" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
@@ -86,6 +91,7 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 <p align="left">
 
 ## 🔍&nbsp; Proyectos y Portafolios ✨&nbsp;📂&nbsp;
+
 <table>
 <tr>
 <td width="50%">
@@ -127,6 +133,7 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 <hr>
 
 ## ⚡ Fun Facts
+
 <details>
   <summary>📝&nbsp;✨&nbsp; <strong>Get to Know Me!</strong> 🔍&nbsp; 📚&nbsp; </summary>
 <p align="center">
@@ -176,14 +183,15 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 </p>
 
 **Fun Fact:** There are over 2.2 billion gamers worldwide, spanning various platforms and genres.
+
 </details>
 
 ## 🤝 &nbsp; Support me 🤝 &nbsp;
 
 If you enjoy my work and would like to support me, you can sponsor me on GitHub, YouTube, TikTok, Instagram, Twitter, and LinkedIn. 🙌🌟
 
-Your support will enable me to focus more on open-source projects and contribute to the vibrant ecosystem. 🚀💻 
-Your contributions will help me continue learning, growing, and making a positive impact. 📚🌱 
+Your support will enable me to focus more on open-source projects and contribute to the vibrant ecosystem. 🚀💻
+Your contributions will help me continue learning, growing, and making a positive impact. 📚🌱
 Together, we can create something amazing in the world of open-source! 💪.
 
 <details>
@@ -201,6 +209,7 @@ Join me on this journey and be part of the change. Your donation not only suppor
 Make a difference today. Donate to my PayPal or Nequi account and help me continue creating code that changes the world. Your support is truly invaluable and appreciated! 🙌❤️
 
 Thank you in advance for your generosity and for believing in my passion for programming. Together, we can achieve great things. 🚀🎉
+
 <p>
 <div align="center">
 <p>
