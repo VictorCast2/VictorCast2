@@ -94,6 +94,15 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
       </p>
     </td>
   </tr>
+
+  <tr>
+    <td colspan="2">
+      <h3 align="center"><strong>📊 Mᴏsᴛ Usᴇᴅ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCast2&layout=donut-vertical&langs_count=10&theme=react-dark&hide_border=true&cache_seconds=1" alt="Top Languages" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 <!-- 🏅 Trophies -->
