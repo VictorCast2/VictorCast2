@@ -101,16 +101,17 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 </table>
 
 ## 📲&nbsp;💻&nbsp;🔗&nbsp; Connect with me 🔗&nbsp;🌐&nbsp;🤝&nbsp;
-
-<p align="left">
-  <a href="https://twitter.com/VctorJosCast02" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40"/>
+<p align="center">
+  <a href="https://twitter.com/VctorJosCast02" target="_blank" title="Twitter">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="50" style="margin: 0 30px;" />
   </a>
-  <a href="https://linkedin.com/in/vcast2/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/vcast2/" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50" style="margin: 0 30px;" />
   </a>
-  <a href="https://www.youtube.com/@VCastilloC" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@VCastilloC" target="_blank" title="YouTube">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" height="50" style="margin: 0 30px;" />
   </a>
 </p>
 
