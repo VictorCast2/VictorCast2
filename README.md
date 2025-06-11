@@ -57,10 +57,7 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
   <!-- Gráfica de actividad de los últimos 30 días -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorCast2&theme=react-dark&hide_border=true&area=true&custom_title=Actividad%20en%20los%20últimos%2030%20días" alt="GitHub Activity Graph" width="100%"/>
 </p>
-
-
 <hr>
-
 <table width="100%">
   <tr>
     <td width="50%">
@@ -100,6 +97,7 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
   </tr>
 </table>
 
+<hr>
 ## 📲&nbsp;💻&nbsp;🔗&nbsp; Connect with me 🔗&nbsp;🌐&nbsp;🤝&nbsp;
 <p align="center">
   <a href="https://twitter.com/VctorJosCast02" target="_blank" title="Twitter">
