@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+<img src="Profile LinkedIn Banner.png" title="Profile LinkedIn Banner" alt="Profile LinkedIn Banner">&nbsp;
 
 <div align="center">
 <h1 align="center"> 👨🏻‍💻  Hi there! <a href="https://www.linkedin.com/in/vcastilloc/"> My name is: Víctor José Castillo Castro </a> 👋</h1>
@@ -6,12 +6,10 @@
 <h3 align="center"> A passionate Software Development "<em>Backend</em>" from Cartagena (<em> Colombia </em>) </h3>
 <h1 align="center"></h1>
 <section align='left'>
-<img src="Profile LinkedIn Banner.png" title="Profile LinkedIn Banner" alt="Profile LinkedIn Banner">&nbsp;
-  
 <!--**VictorCast2/VictorCast2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
 <details>
   <summary>📝&nbsp;✨&nbsp; <strong>About me!</strong> 🔍&nbsp; 📚&nbsp; </summary>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="250px" style="max-width: 100%; height: auto; border-radius: 8px;" />
   
 👨‍💻 I'm a highly competent systems technician with a passion for technology. My skills in handling various tools allow me to adapt quickly to new technologies and environments. 🛠️💪
 
@@ -30,7 +28,6 @@
 🤝 I thrive in teamwork and value collaboration. With dedication and a positive attitude, I achieve shared goals. 🚀
 
 </details>
-<img align='right' src="Icons/My.gif" width="30%" align="center" border-radius="50%">
 
 ✨ In summary, my certifications and technical expertise make me a valuable and reliable professional. I'm committed to ethical practices, cybersecurity, and effective communication, driving success in the field of technology. 🌟
 
@@ -109,6 +106,7 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 <br>
 
 <hr>
+
 ## 📲&nbsp;💻&nbsp;🔗&nbsp; Connect with me 🔗&nbsp;🌐&nbsp;🤝&nbsp;
 <p align="center">
   <a href="https://twitter.com/VctorJosCast02" target="_blank" title="Twitter">
