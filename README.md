@@ -46,12 +46,12 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 |                                                                                                                                                                                                                                                                                           💻 Programming                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                          🌐 Front-End Development                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                   🔧 Back-End Development                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                         🗄️ Database Technologies                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         🛠️ Software and Others                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/></a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/></a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70" height="70"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React logo"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo"/></a> | <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60"/></a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" height="60"/></a> | <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/></a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60" height="60"/></a> | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60"/></a> <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/></a> <a href="https://www.notion.so/es-la" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="60" height="60"/></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma logo"/></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" title="Visual Studio Code" alt="Visual Studio Code" width="48" height="48"/></a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva logo"/></a> |
-
 </div>
 
 <hr>
 
 ### ⚙️ &nbsp;GitHub Analytics
+
 <!-- Graph -->
 <p align="center">
   <!-- Gráfica de actividad de los últimos 30 días -->
@@ -62,50 +62,50 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 <p align="center">
   <a href="https://github.com/VictorCast2">
     <div align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorCast2&theme=tokyonight&hide_border=true&show_icons=true&layout=compact&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" alt="GitHub Streak"/>
-      <br>
-      <br>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorCast2&theme=react-dark&hide_border=true&area=true&show_icons=true&layout=compact&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" alt="GitHub Streak"/>
+      <br><br>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-      <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCast2&layout=donut-vertical&theme=tokyonight&hide_border=true&show_icons=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCast2&layout=donut-vertical&theme=react-dark&hide_border=true&area=true&show_icons=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" alt="Top Languages"/>
       </a>
     </div>
   </a>
 </p>
+
 <hr>
+
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>🐙 Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/TheMidnigth">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheMidnigth&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        <a href="https://github.com/VictorCast2">
+          <img src="https://github-readme-stats.vercel.app/api?username=VictorCast2&count_private=true&show_icons=true&theme=react-dark&hide_border=true&area=true" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>🔥 Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/TheMidnigth">
-          <img align="center" src="https://streak-stats.demolab.com?user=TheMidnigth&theme=nightowl" alt="Streak Stats" />
+        <a href="https://github.com/VictorCast2">
+          <img src="https://streak-stats.demolab.com?user=VictorCast2&theme=react-dark&hide_border=true&area=true" alt="Streak Stats" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-<h3 align="center"><strong>📌 Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-<p align="center">
-  <a href="https://github.com/TheMidnigth/Portafolio">
-    <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=TheMidnigth&repo=Portafolio&theme=nightowl&show_owner=true" alt="Portafolio" />
-  </a>
-</p>
+      <h3 align="center"><strong>📌 Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/VictorCast2/Gestion_Buques">
+          <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorCast2&repo=Gestion_Buques&theme=react-dark&hide_border=true&area=true" alt="Gestion_Buques" />
+        </a>
+      </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>🏆 Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/TheMidnigth">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=TheMidnigth&limit=3&theme=nightowl&combine_all_yearly_contributions=true" alt="Top Contributions" />
+        <a href="https://github.com/VictorCast2">
+          <img src="https://github-contributor-stats.vercel.app/api?username=VictorCast2&limit=3&theme=react-dark&hide_border=true&area=true&combine_all_yearly_contributions=true" alt="Top Contributions" />
         </a>
       </p>
     </td>
@@ -115,22 +115,16 @@ Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power
 ## 📲&nbsp;💻&nbsp;🔗&nbsp; Connect with me 🔗&nbsp;🌐&nbsp;🤝&nbsp;
 
 <p align="left">
-<a href="https://twitter.com/VctorJosCast02" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/vcastilloc" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkendin" height="30" width="40" />
-</a>
-<a href="https://instagram.com/victor02_cast2" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/@VCastilloC" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-</a>
-<a href="https://api.whatsapp.com/send/?phone=3195598806&text&type=phone_number&app_absent=0" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
-</a>
-<p align="left">
+  <a href="https://twitter.com/VctorJosCast02" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/vcast2/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="https://www.youtube.com/@VCastilloC" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="40"/>
+  </a>
+</p>
 
 ## 🔍&nbsp; Proyectos y Portafolios ✨&nbsp;📂&nbsp;
 
